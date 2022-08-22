@@ -1,0 +1,18 @@
+{
+    "name": "colorways-js",
+    "version": "0.0.1",
+    "description": "Curated yarn colorway data and matching functions.",
+    "license": "MIT",
+    "repository": "temperatureblanket/colorways-js",
+    "keywords": [
+        "yarn",
+        "colorways",
+        "colorway",
+        "crochet",
+        "knitting",
+        "craft",
+        "npm",
+        "package",
+        "temperatureblanket"
+    ]
+}
